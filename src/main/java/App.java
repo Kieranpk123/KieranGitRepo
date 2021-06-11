@@ -4,6 +4,7 @@ public class App {
         System.out.println("Commit 2");
         System.out.println("Commit 3");
         System.out.println("Commit 4");
+        System.out.println("After creating Branch locally and on server");
     }
 
 }
